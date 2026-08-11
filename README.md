@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Saad Almalki , CS Student from Taif University. 👀
 <!--
 **saadalmalki1/saadalmalki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
